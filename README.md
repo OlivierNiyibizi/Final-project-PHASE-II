@@ -8,9 +8,13 @@
 covering customer registration, policy assignment, payment validation, policy activation, and claim processing.
 **MIS Relevance:**
 The process relies heavily on the **Integrated Insurance MIS**, built with PL/SQL triggers, procedures, and centralized databases that automate:
+
 •	Customer registration
+
 •	Policy linking
+
 •	Payment validation
+
 •	Automatic policy activation/expiration
 •	Claims approval or rejection
 **Objectives**
